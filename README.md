@@ -14,7 +14,7 @@
 - 🌱 I’m currently pursuing degree in  cse in ai and ml 
 - 💞️ I’m looking to collaborate on ai and ml analysts 
 - 😄 Pronouns: He/His
-- 📝 I regularly write articles on [julururohith.blogspot.com](julururohith.blogspot.com)
+- 📝 I regularly write articles on [julururohith.blogspot.com](https://julururohith.blogspot.com/)
 - 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
