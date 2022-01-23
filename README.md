@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/julururohith" target="blank"><img src="https://img.shields.io/twitter/follow/julururohith?logo=twitter&style=for-the-badge" alt="julururohith" /></a> </p>
 
-- 🌱 I’m currently learning **COMPUTER SCIENCE**
+- 🌱 I’m currently learning JAVA 
  - 👀 I’m interested in artifical intelligence and machine learning 
-- 🌱 I’m currently learning cse in ai and ml 
+- 🌱 I’m currently pursuing degree in  cse in ai and ml 
 - 💞️ I’m looking to collaborate on ai and ml analysts 
 - 😄 Pronouns: He/His
 - 📝 I regularly write articles on [julururohith.blogspot.com](julururohith.blogspot.com)
-- 📫 How to reach me **rohithjuluru2201@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
