@@ -1,4 +1,7 @@
- <h1 align="center">Hi 👋, I'm JULURU ROHITH</h1>
+
+[![MasterHead](https://www.canva.com/design/DAE2ohdM92o/KpWtYrR1dWZwfrTVonkEWw/view?utm_content=DAE2ohdM92o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
+
+<h1 align="center">Hi 👋, I'm JULURU ROHITH</h1>
 
 <h3 align="center">A passionate programmer
 </h3>
