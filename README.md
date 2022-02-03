@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm J VENKATA LAKSHMI SAI ROHITH</h1>
 
-<h3 align="center">A passionate programmer
+<h3 align="center">A passionate programmer in  Artifical intelligence and machine learning💻💻
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith2201&label=Profile%20views&color=0e75b6&style=flat" alt="rohith2201" /> </p>
@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/julururohith" target="blank"><img src="https://img.shields.io/twitter/follow/julururohith?logo=twitter&style=for-the-badge" alt="julururohith" /></a> </p>
 
 - 🌱 I’m currently learning JAVA 
- - 👀 I’m interested in artifical intelligence and machine learning 
+ - 👀 I’m interested in artifical intelligence and machine learning💻
 - 🌱 I’m currently pursuing degree in  cse in ai and ml 
 - 💞️ I’m looking to collaborate on ai and ml analysts 
 - 😄 Pronouns: He/His
