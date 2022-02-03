@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohith2201" alt="rohith2201" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/julururohith" target="blank"><img src="https://img.shields.io/twitter/follow/julururohith?logo=twitter&style=for-the-badge" alt="julururohith" /></a> </p>
 
 - 🌱 I’m currently learning JAVA 
  - 👀 I’m interested in artifical intelligence and machine learning💻
