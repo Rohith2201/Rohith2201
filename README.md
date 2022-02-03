@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm JULURU ROHITH</h1>
+<h1 align="center">Hi 👋, I'm J VENKATA LAKSHMI SAI ROHITH</h1>
 
 <h3 align="center">A passionate programmer
 </h3>
