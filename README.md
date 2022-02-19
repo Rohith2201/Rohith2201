@@ -1,3 +1,5 @@
+![Birthday](https://user-images.githubusercontent.com/94969985/154799827-a6d5daa5-8ea1-44ee-9290-e42b457d6b87.gif)
+
 <h2 align="center">Hello👋, I'm J VENKATA LAKSHMI SAI ROHITH</h2>
  <h3 align="center">A passionate programmer in  Artifical intelligence and machine learning💻💻</h3>
 
