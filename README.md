@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning JAVA 
  - 👀 I’m interested in artifical intelligence and machine learning💻
-- 🌱 I’m currently pursuing degree in  cse in ai and ml 
-- 💞️ I’m looking to collaborate with  AI specialists 
+-💞️ I’m looking to collaborate with  AI specialists 
 - 😄 Pronouns: He/His
 - 📝 I regularly write articles on [julururohith.blogspot.com](https://julururohith.blogspot.com/)
 - 📫 How to reach me ****
