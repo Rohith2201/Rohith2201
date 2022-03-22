@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith2201&label=Profile%20views&color=0e75b6&style=flat" alt="rohith2201" /> </p>
 
 - 🌱 I’m currently learning JAVA 
- - 👀 I’m interested in artifical intelligence and machine learning💻
--💞️ I’m looking to collaborate with  AI specialists 
+- 👀 I’m interested in artifical intelligence and machine learning💻
+- 💞️ I’m looking to collaborate with  AI specialists 
 - 😄 Pronouns: He/His
 - 📝 I regularly write articles on [julururohith.blogspot.com](https://julururohith.blogspot.com/)
 - 📫 How to reach me ****
