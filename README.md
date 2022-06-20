@@ -10,7 +10,7 @@
 - 💞️ I’m looking to collaborate with  AI specialists 
 - 😄 Pronouns: He/His
 - 📝 I regularly write articles on [julururohith.blogspot.com](https://julururohith.blogspot.com/)
-- 📫 How to reach me ****
+- 📫 How to reach me **⬇️⬇️⬇️**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/julururohith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="julururohith" height="30" width="40" /></a>
