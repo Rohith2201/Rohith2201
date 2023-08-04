@@ -5,7 +5,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohith2201" alt="rohith2201" /></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith2201&label=Profile%20views&color=0e75b6&style=flat" alt="rohith2201" /> </p>
 
-- 🌱 I’m currently learning JAVA and DSA
+- 🌱 I’m currently learning DEEP LEARNING
 - 👀 I’m interested in artifical intelligence and machine learning💻
 - 💞️ I’m looking to collaborate with  AI specialists 
 - 😄 Pronouns: He/His
