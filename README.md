@@ -42,4 +42,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohith2201&show_icons=true&theme=radical" alt="rohith2201" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith2201&" alt="rohith2201" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith2201&theme=dark&hide_border=false" alt="rohith2201" /></p>
+
