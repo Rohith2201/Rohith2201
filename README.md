@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm J VENKATA LAKSHMI SAI ROHITH</h1>
-<h3 align="center">A passionate AI Developer from India who is passionate about</h3>
+<h3 align="center">A passionate AI Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith2201&label=Profile%20views&color=0e75b6&style=flat" alt="rohith2201" /> </p>
 
