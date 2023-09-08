@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/julururohith" target="blank"><img src="https://img.shields.io/twitter/follow/julururohith?logo=twitter&style=for-the-badge" alt="julururohith" /></a> </p>
 
-- 🔭 I’m currently working on **sefgd**
+- 🔭 I’m currently working on **FULL STACK DEVELOPMENT**
 
 - 🌱 I’m currently learning **COMPUTER SCIENCE**
 
-- 👯 I’m looking to collaborate on **REACT.JS**
+- 👯 I’m looking to collaborate on Full time projects
 
 - 📝 I regularly write articles on [julururohith.blogspot.com](julururohith.blogspot.com)
 
