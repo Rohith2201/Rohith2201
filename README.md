@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋 WELCOME TO MY GITHUB</h1>
 <h1 align ="center"> I'm J VENKATA LAKSHMI SAI ROHITH</h1>
 <h3 align="center">A passionate AI Developer from India</h3>
