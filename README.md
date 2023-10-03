@@ -8,7 +8,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohith2201" alt="rohith2201" /></a></p>
 
 <p align="left"> <a href="https://twitter.com/julururohith" target="blank"><img src="https://img.shields.io/twitter/follow/julururohith?logo=twitter&style=for-the-badge" alt="julururohith" /></a></p>
-<iframe src="https://github.com/sponsors/Rohith2201/button" title="Sponsor Rohith2201" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
 - 🔭 I’m currently working on **FULL STACK DEVELOPMENT**
 
