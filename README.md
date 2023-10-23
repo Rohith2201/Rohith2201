@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **FULL STACK DEVELOPMENT**
 
-- 🌱 I’m currently learning **COMPUTER SCIENCE ENGINEERING WITH AI && ML**
+- 🌱 I’m currently learning **Xojo**
 
 - 👯 I’m looking to collaborate on Full time projects
 
