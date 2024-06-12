@@ -11,11 +11,13 @@
 
 - 🔭 I’m currently working on **FULL STACK DEVELOPMENT**
 
-- 🌱 I’m currently learning **Xojo**
+- 🌱 I’m currently learning **Wordpress**
 
-- 👯 I’m looking to collaborate on Full time projects
+- 👯 I’m looking to collaborate on Full time projects on Machine Learning
 
 - 📝 I regularly write articles on [julururohith.blogspot.com](julururohith.blogspot.com)
+  
+- 📄 Know about my experiences [ Resume and CV ](julururohith.blogspot.com)
 
 - 📫 How to reach me **rohithjuluru2201@gmail.com**
 
