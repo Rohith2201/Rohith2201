@@ -62,7 +62,9 @@
 <p>
   <h2>Achivements</h2>
 </p>
-<p><div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohith2201&show_icons=true&locale=en&layout=compact" alt="rohith2201" /></div>
+<p>
+  <h2>STATS</h2>
+  <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohith2201&show_icons=true&locale=en&layout=compact" alt="rohith2201" /></div>
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohith2201&show_icons=true&theme=radical" alt="rohith2201" /></div>
 <div><img align="Left" src="https://stats.quine.sh/Rohith2201/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201)"></div>
 <div><img align="Right" src="https://stats.quine.sh/Rohith2201/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201)"></div>
