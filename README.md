@@ -67,11 +67,20 @@
 <p>
   <h2>STATS</h2>
   <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohith2201&show_icons=true&locale=en&layout=compact" alt="rohith2201" /></div>
+<div><img align="left"  src="https://github-contributor-stats.vercel.app/api?username=rohith2201&limit=5&theme=dark&combine_all_yearly_contributions=true" /></div> 
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohith2201&show_icons=true&theme=radical" alt="rohith2201" /></div>
 <div><img align="Left" src="https://stats.quine.sh/Rohith2201/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201)"></div>
 <div><img align="Right" src="https://stats.quine.sh/Rohith2201/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201)"></div>
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith2201&theme=dark&hide_border=false" alt="rohith2201" /></div>
 <div><img align="Left" src="https://stats.quine.sh/Rohith2201/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201)"></div>
 <div><img align="Right" src="https://stats.quine.sh/Rohith2201/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201)"></div></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 
