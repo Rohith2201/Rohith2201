@@ -38,7 +38,6 @@
 <a href="https://discord.gg/mR52fMh4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mR52fMh4" height="30" width="40" /></a>
 </p>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -61,21 +60,24 @@
 <a href="https://ww.raspberrypi.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A" alt="tensorflow" width="40" height="40"/>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg" alt="tensorflow" width="40" height="40"/>
 </p>
+
 <p>
   <h2>Achivements</h2>
 </p>
 <p>
   <h2>STATS</h2>
   <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohith2201&show_icons=true&locale=en&layout=compact" alt="rohith2201" /></div>
-<div><img align="left"  src="https://github-contributor-stats.vercel.app/api?username=rohith2201&limit=5&theme=dark&combine_all_yearly_contributions=true" /></div> 
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohith2201&show_icons=true&theme=radical" alt="rohith2201" /></div>
+<div><img align="center"  src="https://github-contributor-stats.vercel.app/api?username=rohith2201&limit=5&theme=dark&combine_all_yearly_contributions=true" /></div> 
 <div><img align="Left" src="https://stats.quine.sh/Rohith2201/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201)"></div>
 <div><img align="Right" src="https://stats.quine.sh/Rohith2201/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201)"></div>
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith2201&theme=dark&hide_border=false" alt="rohith2201" /></div>
-<div><img align="Left" src="https://stats.quine.sh/Rohith2201/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201)"></div>
-<div><img align="Right" src="https://stats.quine.sh/Rohith2201/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201)"></div></p>
+<div><img align="center" src="https://stats.quine.sh/Rohith2201/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201)"></div>
+<div><img align="center" src="https://stats.quine.sh/Rohith2201/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201)"></div></p>
 
-### ✍️ Random Dev Quote
+
+
+  ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
