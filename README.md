@@ -17,6 +17,7 @@ Hi, i'm J V L S ROHITH,I am interested to work as a solution provider for Comput
 <li> ⚡ Fun fact : The more you GRIND, the more you GET💫</li>
 <li>📄 Know about my experiences [ Resume and CV ](julururohith.blogspot.com)</li>
 </ul>
+
 <p>
   <h2>GITHUB TROPHIES</h2>
   <hr>
@@ -42,6 +43,9 @@ Hi, i'm J V L S ROHITH,I am interested to work as a solution provider for Comput
 
 [![An image of @rohith2201's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohith2201)](https://holopin.io/@rohith2201)
 <hr>
+<h1>Github Contribution✨<h1>
+
+![snake gif](https://github.com/Rohith2201/Rohith2201/blob/output/github-contribution-grid-snake.svg)
 <h2>Rohith's Contribution Graph<h2>
 
 <p align="center">
@@ -126,6 +130,6 @@ Hi, i'm J V L S ROHITH,I am interested to work as a solution provider for Comput
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://memer-new.vercel.app/' style="height: 400 px"/>
 
 
