@@ -16,6 +16,9 @@
   <a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohith2201&theme=dark&layout=compact">
     <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohith2201&theme=dark&layout=compact" /> 
   </a>
+  <a>
+    <img width = "400" src="https://github-contributor-stats.vercel.app/api?username=rohith2201&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  </a>
 </p>
 
 
