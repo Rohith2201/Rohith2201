@@ -5,6 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith2201&label=Profile%20views&color=0e75b6&style=flat" alt="rohith2201" /> </p>
 
+
+
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohith2201" alt="rohith2201" /></a></p>
 
 <p align="left"> <a href="https://twitter.com/julururohith" target="blank"><img src="https://img.shields.io/twitter/follow/julururohith?logo=twitter&style=for-the-badge" alt="julururohith" /></a></p>
@@ -61,9 +64,13 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 
-<p>
-  <h2>Achivements</h2>
-</p>
+<hr>
+<h2>Achivements</h2>
+<h2>Holopin Badges<h2>
+
+[![An image of @rohith2201's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohith2201)](https://holopin.io/@rohith2201)
+<hr>
+
 <p>
   <h2>STATS</h2>
   <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohith2201&show_icons=true&locale=en&layout=compact" alt="rohith2201" /></div>
