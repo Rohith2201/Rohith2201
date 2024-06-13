@@ -4,7 +4,19 @@
 <h3 align="center">Founder && President of GeeksForGeeks VITAP-STUDENT CHAPTER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith2201&label=Profile%20views&color=0e75b6&style=flat" alt="rohith2201" /> </p>
-
+<p align="center">
+<img width="800" src="https://github-profile-trophy.vercel.app/?username=Rohith2201&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" />
+<br>
+  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=Rohith2201&show_icons=true&theme=tokyonight">
+    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rohith2201&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Rohith2201&theme=tokyonight">
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith2201&theme=tokyonight" />
+  </a>
+  <a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohith2201&theme=dark&layout=compact">
+    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohith2201&theme=dark&layout=compact" /> 
+  </a>
+</p>
 
 
 
