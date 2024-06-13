@@ -73,6 +73,16 @@
 
 <p>
   <h2>STATS</h2>
+  <hr>
+
+  
+<h2>Rohith's Contribution Graph<h2>
+
+<p align="center">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith2201" />
+<br>
+<p>
+
   <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohith2201&show_icons=true&locale=en&layout=compact" alt="rohith2201" /></div>
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohith2201&show_icons=true&theme=radical" alt="rohith2201" /></div>
 <div><img align="center"  src="https://github-contributor-stats.vercel.app/api?username=rohith2201&limit=5&theme=dark&combine_all_yearly_contributions=true" /></div> 
