@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋 WELCOME TO MY GITHUB</h1>
-<h1 align ="center"> I'm J VENKATA LAKSHMI SAI ROHITH</h1>
-<h3 align="center">A passionate AI Developer from India</h3>
-<h3 align="center">Founder && President of GeeksForGeeks VITAP-STUDENT CHAPTER</h3>
+<h1 >Hi I'm ROHITH <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1></h1>
+<h3 >A passionate AI Developer from India</h3>
+<h3 >Founder && President of GeeksForGeeks VITAP-STUDENT CHAPTER</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith2201&label=Profile%20views&color=0e75b6&style=flat" alt="rohith2201" /> </p>
+
+
+![counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
+![Profile Views](https://komarev.com/ghpvc/?username=Rohith2201)
+
 <p align="center">
 <img width="800" src="https://github-profile-trophy.vercel.app/?username=Rohith2201&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" />
 <br>
@@ -25,7 +28,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohith2201" alt="rohith2201" /></a></p>
 
-<p align="left"> <a href="https://twitter.com/julururohith" target="blank"><img src="https://img.shields.io/twitter/follow/julururohith?logo=twitter&style=for-the-badge" alt="julururohith" /></a></p>
+
 
 - 🔭 I’m currently working on **FULL STACK DEVELOPMENT**
 
