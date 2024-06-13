@@ -2,7 +2,10 @@
 <h3 >A passionate AI Developer from India</h3>
 <h3 >Founder && President of GeeksForGeeks VITAP-STUDENT CHAPTER</h3>
 
-<img align="right" width=200px height=400px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+![counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
+![Profile Views](https://komarev.com/ghpvc/?username=Rohith2201)
+
+<img align="right" width=200px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 Hi, i'm J V L S ROHITH,I am interested to work as a solution provider for Computer Software. Prefer in software development / automation / programming field having good skill in projects & design developments as well as handling all aspects of project management starts from creating demand, making it happen according to company structure.
 
 <ul>
@@ -13,9 +16,22 @@ Hi, i'm J V L S ROHITH,I am interested to work as a solution provider for Comput
 <li> ⚡ Fun fact : The more you GRIND, the more you GET💫</li>
 <li>📄 Know about my experiences [ Resume and CV ](julururohith.blogspot.com)</li>
 </ul>
+<hr>
+<h2>Achivements</h2>
+<h2>Holopin Badges<h2>
 
-![counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
-![Profile Views](https://komarev.com/ghpvc/?username=Rohith2201)
+[![An image of @rohith2201's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohith2201)](https://holopin.io/@rohith2201)
+<hr>
+<h2>Rohith's Contribution Graph<h2>
+
+<p align="center">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith2201" />
+<br>
+<p>
+<p>
+  <h2>GITHUB TROPHIES</h2>
+  <hr>
+
 
 <p align="center">
 <img width="800" src="https://github-profile-trophy.vercel.app/?username=Rohith2201&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" />
@@ -80,24 +96,10 @@ Hi, i'm J V L S ROHITH,I am interested to work as a solution provider for Comput
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 
-<hr>
-<h2>Achivements</h2>
-<h2>Holopin Badges<h2>
 
-[![An image of @rohith2201's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohith2201)](https://holopin.io/@rohith2201)
-<hr>
-
-<p>
-  <h2>STATS</h2>
-  <hr>
 
   
-<h2>Rohith's Contribution Graph<h2>
 
-<p align="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith2201" />
-<br>
-<p>
 
   <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohith2201&show_icons=true&locale=en&layout=compact" alt="rohith2201" /></div>
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohith2201&show_icons=true&theme=radical" alt="rohith2201" /></div>
