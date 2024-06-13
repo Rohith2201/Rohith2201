@@ -2,7 +2,17 @@
 <h3 >A passionate AI Developer from India</h3>
 <h3 >Founder && President of GeeksForGeeks VITAP-STUDENT CHAPTER</h3>
 
+<img align="right" width=200px height=400px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+Hi, i'm J V L S ROHITH,I am interested to work as a solution provider for Computer Software. Prefer in software development / automation / programming field having good skill in projects & design developments as well as handling all aspects of project management starts from creating demand, making it happen according to company structure.
 
+<ul>
+<li> 🌱 I’m currently pursuing BTech in Computer Engineering at VIT-AP University </li>
+<li>🔭 I’m currently working on FULL STACK DEVELOPMENT</li>
+<li> 👯 I’m looking to collaborate on Full time projects on Machine Learning <li>💼 Wanna colab on Projects? do reach, <a href="mailto:rohithjuluru2201@gmail.com">email</a></li>
+<li> 💬 Ask me about anything, I am happy to help </li>
+<li> ⚡ Fun fact : The more you GRIND, the more you GET💫</li>
+<li>📄 Know about my experiences [ Resume and CV ](julururohith.blogspot.com)</li>
+</ul>
 
 ![counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
 ![Profile Views](https://komarev.com/ghpvc/?username=Rohith2201)
@@ -26,21 +36,9 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohith2201" alt="rohith2201" /></a></p>
 
 
 
-- 🔭 I’m currently working on **FULL STACK DEVELOPMENT**
-
-- 🌱 I’m currently learning **Wordpress**
-
-- 👯 I’m looking to collaborate on Full time projects on Machine Learning
-
-- 📝 I regularly write articles on [julururohith.blogspot.com](julururohith.blogspot.com)
-  
-- 📄 Know about my experiences [ Resume and CV ](julururohith.blogspot.com)
-
-- 📫 How to reach me **rohithjuluru2201@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
