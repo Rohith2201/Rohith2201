@@ -53,13 +53,6 @@ Hi, i'm J V L S ROHITH,I am interested to work as a solution provider for Comput
 <br>
 <p>
 
-
-
-
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/rohith2201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rohith2201" height="30" width="40" /></a>
@@ -120,8 +113,6 @@ Hi, i'm J V L S ROHITH,I am interested to work as a solution provider for Comput
     <img width = "500" src="https://stats.quine.sh/Rohith2201/dependencies?theme=dark" />
   </a>
 </p>
-
-
 
 
 
