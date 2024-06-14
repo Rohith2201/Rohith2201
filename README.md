@@ -101,16 +101,16 @@ Hi, i'm J V L S ROHITH,I am interested to work as a solution provider for Comput
 <hr>
 <br>
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201">
-    <img width="500" src="https://stats.quine.sh/Rohith2201/languages-over-time?theme=dark" />
+    <img width="400" src="https://stats.quine.sh/Rohith2201/languages-over-time?theme=dark" />
   </a>
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201">
-    <img width="500" src="https://stats.quine.sh/Rohith2201/topics-over-time?theme=dark" />
+    <img width="400" src="https://stats.quine.sh/Rohith2201/topics-over-time?theme=dark" />
   </a>
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201">
-    <img width="500" src="https://stats.quine.sh/Rohith2201/github?theme=dark" /> 
+    <img width="400" src="https://stats.quine.sh/Rohith2201/github?theme=dark" /> 
   </a>
   <a href = "https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201" >
-    <img width = "500" src="https://stats.quine.sh/Rohith2201/dependencies?theme=dark" />
+    <img width = "400" src="https://stats.quine.sh/Rohith2201/dependencies?theme=dark" />
   </a>
 </p>
 
