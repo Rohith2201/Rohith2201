@@ -57,8 +57,6 @@ Hi, i'm J V L S ROHITH,I am interested to work as a solution provider for Comput
 <p align="left">
 <a href="https://twitter.com/julururohith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="julururohith" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/julururohith2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julururohith2004" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/juluru-rohith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="juluru-rohith" height="30" width="40" /></a>
-<a href="https://kaggle.com/rohithjuluru2201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rohithjuluru2201" height="30" width="40" /></a>
 <a href="https://fb.com/rohith.julluru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohith.julluru" height="30" width="40" /></a>
 <a href="https://instagram.com/juluru.rohith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juluru.rohith" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rohith speaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rohith speaks" height="30" width="40" /></a>
@@ -90,12 +88,13 @@ Hi, i'm J V L S ROHITH,I am interested to work as a solution provider for Comput
 
 ## ❤️ I'm Code on (DSA)
 <p>
+<a href="https://stackoverflow.com/users/juluru-rohith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="juluru-rohith" height="30" width="40" /></a>
+<a href="https://kaggle.com/rohithjuluru2201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rohithjuluru2201" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rohith2201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rohith2201" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rohithjuluru2201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohithjuluru2201" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohithjuluru2201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohithjuluru2201" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/(<rohithjuluru2201>/profile)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="(<rohithjuluru2201>/profile)" height="30" width="40" /></a>
 <a href="https://codepen.io/rohith2201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rohith2201" height="30" width="40" /></a>
-
 </p>
 
 ## 3D Contribution Calendar 📅
