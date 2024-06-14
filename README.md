@@ -4,7 +4,7 @@
 
 ![counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
 ![Profile Views](https://komarev.com/ghpvc/?username=Rohith2201)
-
+<a href="https://github.com/Rohith2201?tab=followers"><img src="https://img.shields.io/github/followers/Rohith2201?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <img align="right" width=200px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 Hi, i'm J V L S ROHITH,I am interested to work as a solution provider for Computer Software. Prefer in software development / automation / programming field having good skill in projects & design developments as well as handling all aspects of project management starts from creating demand, making it happen according to company structure.
