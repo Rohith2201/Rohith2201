@@ -1,6 +1,6 @@
 <h1 >Hi I'm ROHITH <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1></h1>
 <h3 >A passionate AI Developer from India</h3>
-<h3>I Build Websites Using WordPress </h3>
+<h3>I Build Websites Using Full Stack Development & WordPress  </h3>
 <h3 >Founder && President of GeeksForGeeks VITAP-STUDENT CHAPTER</h3>
 
 ![counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
