@@ -129,4 +129,8 @@ Hi, I'm J V L S ROHITH,I am interested to work as a solution provider for Comput
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400 px"/>
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
