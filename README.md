@@ -130,6 +130,9 @@ Hi, I'm J V L S ROHITH,I am interested to work as a solution provider for Comput
 <img src='https://memer-new.vercel.app/' style="height: 400 px"/>
 
 ### Blogs posts
+
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
