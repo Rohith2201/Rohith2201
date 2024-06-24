@@ -131,7 +131,9 @@ Hi, I'm J V L S ROHITH,I am interested to work as a solution provider for Comput
 
 ### Blogs posts
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Hello there!](https://medium.com/@julururohith191020109/hello-there-4e3a3da6b858?source=rss-6c76dbb08be5------2)
+<!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
