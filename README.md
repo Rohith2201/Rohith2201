@@ -4,7 +4,7 @@
 <h3 >Founder && President of GeeksForGeeks VITAP-STUDENT CHAPTER</h3>
 <h3 >Building Code Metaphor- Where Tech meets community </h3>
 
-![counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Rohith2201)
 <a href="https://github.com/Rohith2201?tab=followers"><img src="https://img.shields.io/github/followers/Rohith2201?label=Followers&style=social" alt="GitHub Badge"></a>
 
