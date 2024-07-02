@@ -130,7 +130,7 @@ Hi, I'm J V L S ROHITH,I am interested to work as a solution provider for Comput
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400 px"/>
 
-### Blogs posts
+### MEDIUM Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 - [2870. Minimum Number of Operations to Make Array Empty](https://medium.com/@julururohith191020109/2870-minimum-number-of-operations-to-make-array-empty-dd032890564b?source=rss-6c76dbb08be5------2)
