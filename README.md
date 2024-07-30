@@ -17,7 +17,6 @@ Hi, I'm J V L S ROHITH,I am interested to work as a solution provider for Comput
 <li> 👯 I’m looking to collaborate on Full time projects on Machine Learning <li>💼 Wanna colab on Projects? do reach, <a href="mailto:rohithjuluru2201@gmail.com">email</a></li>
 <li> 💬 Ask me about anything, I am happy to help </li>
 <li> ⚡ Fun fact : The more you GRIND, the more you GET💫</li>
-<li>📄 Know about my experiences [ Resume and CV ](julururohith.blogspot.com)</li>
 </ul>
 
 <p>
