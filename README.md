@@ -2,7 +2,7 @@
 <h3 >A passionate AI Developer from India</h3>
 <h3>I Build Websites Using Full Stack Development & WordPress  </h3>
 <h3 >Founder && President of GeeksForGeeks VITAP-STUDENT CHAPTER</h3>
-<h3 >Building Code Metaphor- Where Tech meets community </h3>
+<h3 >Building Code Metaphor- (Where Tech meets community </h3>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rohith2201)
