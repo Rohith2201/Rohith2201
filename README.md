@@ -133,11 +133,11 @@ Hi, I'm J V L S ROHITH,I am interested to work as a solution provider for Comput
 ### MEDIUM Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Master CSS in 30 Days: From Basics to Advanced with Practical Projects](https://medium.com/@julururohith191020109/master-css-in-30-days-from-basics-to-advanced-with-practical-projects-7340a68a8000?source=rss-6c76dbb08be5------2)
 - [HTML in 30 Days: Learn from Scratch to Advanced with Real Projects](https://medium.com/@julururohith191020109/html-in-30-days-learn-from-scratch-to-advanced-with-real-projects-d94a87e4e665?source=rss-6c76dbb08be5------2)
 - [Top HacktoberFest Projects 2024](https://medium.com/@julururohith191020109/top-hacktoberfest-projects-1e863ebe4e02?source=rss-6c76dbb08be5------2)
 - [Top HacktoberFest Projects 2024](https://medium.com/@julururohith191020109/top-hacktoberfest-projects-2024-5a7978cd6159?source=rss-6c76dbb08be5------2)
 - [2870. Minimum Number of Operations to Make Array Empty](https://medium.com/@julururohith191020109/2870-minimum-number-of-operations-to-make-array-empty-dd032890564b?source=rss-6c76dbb08be5------2)
-- [1661. Average Time of Process per Machine](https://medium.com/@julururohith191020109/1661-average-time-of-process-per-machine-f1b33fe84248?source=rss-6c76dbb08be5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
