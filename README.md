@@ -133,11 +133,11 @@ Hi, I'm J V L S ROHITH,I am interested to work as a solution provider for Comput
 ### MEDIUM Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Streamlining Secure User Authorization: A Guide to Using Amazon Cognito on AWS](https://medium.com/@julururohith191020109/streamlining-secure-user-authorization-a-guide-to-using-amazon-cognito-on-aws-e528b89ddd09?source=rss-6c76dbb08be5------2)
 - [DevSecOps: Seamlessly Embedding Security into the DevOps Workflow](https://medium.com/@julururohith191020109/devsecops-seamlessly-embedding-security-into-the-devops-workflow-21b6eaf275a6?source=rss-6c76dbb08be5------2)
 - [The Ultimate 30-Day Plan to Master JavaScript](https://medium.com/@julururohith191020109/the-ultimate-30-day-plan-to-master-javascript-47a898c14895?source=rss-6c76dbb08be5------2)
 - [Master CSS in 30 Days: From Basics to Advanced with Practical Projects](https://medium.com/@julururohith191020109/master-css-in-30-days-from-basics-to-advanced-with-practical-projects-7340a68a8000?source=rss-6c76dbb08be5------2)
 - [HTML in 30 Days: Learn from Scratch to Advanced with Real Projects](https://medium.com/@julururohith191020109/html-in-30-days-learn-from-scratch-to-advanced-with-real-projects-d94a87e4e665?source=rss-6c76dbb08be5------2)
-- [Top HacktoberFest Projects 2024](https://medium.com/@julururohith191020109/top-hacktoberfest-projects-1e863ebe4e02?source=rss-6c76dbb08be5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
