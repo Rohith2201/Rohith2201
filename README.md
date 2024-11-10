@@ -1,12 +1,5 @@
 <h1 >Hi I'm ROHITH <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1></h1>
-<h3 >A passionate AI Developer from India</h3>
-<h3>I Build Websites Using Full Stack Development & WordPress  </h3>
-<h3 >Founder && President of GeeksForGeeks VITAP-STUDENT CHAPTER</h3>
-<h3 >Building Code Metaphor- (Where Tech meets community). </h3>
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rohith2201)
-<a href="https://github.com/Rohith2201?tab=followers"><img src="https://img.shields.io/github/followers/Rohith2201?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <img align="right" width=200px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 Hi, I'm J V L S ROHITH,I am interested to work as a solution provider for Computer Software. Prefer in software development / Machine Learning / automation / programming field having good skill in projects & design developments as well as handling all aspects of project management starts from creating demand, making it happen according to company structure...
@@ -18,6 +11,11 @@ Hi, I'm J V L S ROHITH,I am interested to work as a solution provider for Comput
 <li> 💬 Ask me about anything, I am happy to help </li>
 <li> ⚡ Fun fact : The more you GRIND, the more you GET💫</li>
 </ul>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rohith2201)
+<a href="https://github.com/Rohith2201?tab=followers"><img src="https://img.shields.io/github/followers/Rohith2201?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 <p>
   <h2>GITHUB TROPHIES</h2>
