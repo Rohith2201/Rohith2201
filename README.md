@@ -134,11 +134,11 @@ Hi, I'm J V L S ROHITH,I am interested to work as a solution provider for Comput
 ### MEDIUM Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DevSecOps: Seamlessly Embedding Security into the DevOps Workflow](https://medium.com/@julururohith191020109/devsecops-seamlessly-embedding-security-into-the-devops-workflow-300f5efa1ed0?source=rss-6c76dbb08be5------2)
+- [Streamlining Secure User Authorization: A Guide to Using Amazon Cognito on AWS](https://medium.com/@julururohith191020109/streamlining-secure-user-authorization-a-guide-to-using-amazon-cognito-on-aws-69e34830f730?source=rss-6c76dbb08be5------2)
+- [All New AI Code Editor: Bolt.new A Revolutionary Tool for Developers](https://medium.com/@julururohith191020109/all-new-ai-code-editor-bolt-new-a-revolutionary-tool-for-developers-4851a1430417?source=rss-6c76dbb08be5------2)
 - [What is Sine Cosine Optimization &lpar;SCO&rpar;?](https://medium.com/@julururohith191020109/what-is-sine-cosine-optimization-sco-1439a2a3c8ea?source=rss-6c76dbb08be5------2)
 - [A Beginner’s Guide to Using SSH with AWS: Securely Accessing Your EC2 Instances](https://medium.com/@julururohith191020109/a-beginners-guide-to-using-ssh-with-aws-securely-accessing-your-ec2-instances-1053ae55d206?source=rss-6c76dbb08be5------2)
-- [Streamlining Secure User Authorization: A Guide to Using Amazon Cognito on AWS](https://medium.com/@julururohith191020109/streamlining-secure-user-authorization-a-guide-to-using-amazon-cognito-on-aws-e528b89ddd09?source=rss-6c76dbb08be5------2)
-- [DevSecOps: Seamlessly Embedding Security into the DevOps Workflow](https://medium.com/@julururohith191020109/devsecops-seamlessly-embedding-security-into-the-devops-workflow-21b6eaf275a6?source=rss-6c76dbb08be5------2)
-- [The Ultimate 30-Day Plan to Master JavaScript](https://medium.com/@julururohith191020109/the-ultimate-30-day-plan-to-master-javascript-47a898c14895?source=rss-6c76dbb08be5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
