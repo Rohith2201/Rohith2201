@@ -2,7 +2,12 @@
 
 
 <img align="right" width=200px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-Hi, I'm J V L S ROHITH,I am interested to work as a solution provider for Computer Software. Prefer in software development / Machine Learning / automation / programming field having good skill in projects & design developments as well as handling all aspects of project management starts from creating demand, making it happen according to company structure...
+Hi, I'm J V L S ROHITH,I am interested to work as a solution provider for Computer Software. Prefer in software development / Machine Learning / automation / programming field having good skill in projects & design developments. 
+
+Recent Projects:
+Code 365 : www.code365.tech
+Pdf-to-quiz : https://pdfto-quiz.vercel.app/
+
 
 <ul>
 <li> 🌱 I’m currently pursuing BTech in Computer Engineering at VIT-AP University </li>
