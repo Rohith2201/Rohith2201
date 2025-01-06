@@ -4,11 +4,6 @@
 <img align="right" width=200px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 Hi, I'm J V L S ROHITH,I am interested to work as a solution provider for Computer Software. Prefer in software development / Machine Learning / automation / programming field having good skill in projects & design developments. 
 
-Recent Projects:
-Code 365 : www.code365.tech
-Pdf-to-quiz : https://pdfto-quiz.vercel.app/
-
-
 <ul>
 <li> 🌱 I’m currently pursuing BTech in Computer Engineering at VIT-AP University </li>
 <li>🔭 I’m currently working on FULL STACK DEVELOPMENT</li>
@@ -20,6 +15,12 @@ Pdf-to-quiz : https://pdfto-quiz.vercel.app/
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rohith2201)
 <a href="https://github.com/Rohith2201?tab=followers"><img src="https://img.shields.io/github/followers/Rohith2201?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+# Recent Projects:
+Code 365 : www.code365.tech 
+<p>
+Pdf-to-quiz : https://pdfto-quiz.vercel.app/
 
 
 <p>
