@@ -2,11 +2,11 @@
 
 
 <img align="right" width=200px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-Hi, I'm J V L S ROHITH,I am interested to work as a solution provider for Computer Software. Prefer in software development / Machine Learning / automation / programming field having good skill in projects & design developments. 
+Hi, I'm J V L S ROHITH,I'm interested to work as a solution provider for Computer Software. Prefer in software development / Machine Learning / automation / programming field having good skill in projects & design developments. 
 
 <ul>
 <li> 🌱 I’m currently pursuing BTech in Computer Engineering at VIT-AP University </li>
-<li>🔭 I’m currently working on FULL STACK DEVELOPMENT</li>
+<li>🔭 I’m currently Learning on FULL STACK DEVELOPMENT</li>
 <li> 👯 I’m looking to collaborate on Full time projects on Machine Learning <li>💼 Wanna colab on Projects? do reach, <a href="mailto:rohithjuluru2201@gmail.com">email</a></li>
 <li> 💬 Ask me about anything, I am happy to help </li>
 <li> ⚡ Fun fact : The more you GRIND, the more you GET💫</li>
