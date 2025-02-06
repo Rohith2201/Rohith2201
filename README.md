@@ -134,8 +134,6 @@ Pdf-to-quiz : https://pdfto-quiz.vercel.app/
   ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400 px"/>
 
 ### MEDIUM Blogs posts
 
