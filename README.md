@@ -138,11 +138,11 @@ Pdf-to-quiz : https://pdfto-quiz.vercel.app/
 ### MEDIUM Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok-3: xAI’s Next Leap in AI Evolution](https://medium.com/@julururohith191020109/grok-3-xais-next-leap-in-ai-evolution-5aa91e4659f8?source=rss-6c76dbb08be5------2)
+- [DeepSeek: The AI Revolution Disrupting the Market](https://medium.com/@julururohith191020109/deepseek-the-ai-revolution-disrupting-the-market-8e90b9905938?source=rss-6c76dbb08be5------2)
 - [My Interview Experience with Deloitte US-India Offices](https://medium.com/@julururohith191020109/my-interview-experience-with-deloitte-us-india-offices-5ce4993bb384?source=rss-6c76dbb08be5------2)
 - [My Recruitment Journey with LTI Mindtree](https://medium.com/@julururohith191020109/my-recruitment-journey-with-lti-mindtree-0c9914df65a5?source=rss-6c76dbb08be5------2)
 - [The Metaverse: Redefining Digital Interaction](https://medium.com/@julururohith191020109/the-metaverse-redefining-digital-interaction-05f6f5cc7967?source=rss-6c76dbb08be5------2)
-- [How Generative AI is Revolutionizing Creativity](https://medium.com/@julururohith191020109/how-generative-ai-is-revolutionizing-creativity-f8f7e6c83e11?source=rss-6c76dbb08be5------2)
-- [Starlink: Connecting the World, One Satellite at a Time](https://medium.com/@julururohith191020109/starlink-connecting-the-world-one-satellite-at-a-time-0056ccd4ea7c?source=rss-6c76dbb08be5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
