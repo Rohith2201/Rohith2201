@@ -123,9 +123,6 @@ Pdf-to-quiz : https://pdfto-quiz.vercel.app/
   <a href = "https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201" >
     <img width = "400" src="https://stats.quine.sh/Rohith2201/dependencies?theme=dark" />
   </a>
-   <a href="https://leetcard.jacoblin.cool/rohithjuluru2201?theme=radical&font=Song%20Myung&ext=activity">
-    <img width="400" src="https://leetcard.jacoblin.cool/rohithjuluru2201?theme=radical&font=Song%20Myung&ext=activity" />
-  </a>
 </p>
 
 
