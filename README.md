@@ -28,9 +28,6 @@ Code 365 : www.code365.tech
 <p>
 Pdf-to-quiz : https://pdfto-quiz.vercel.app/
 
-<h3 align="left">Connect with me:</h3>
-
-
 
 <p>
   <h2>GITHUB TROPHIES</h2>
