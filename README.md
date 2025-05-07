@@ -108,11 +108,11 @@ Pdf-to-quiz : https://pdfto-quiz.vercel.app/
 ### MEDIUM Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 AI Tools That Replace a Full Dev Team &lpar;Almost&rpar;](https://medium.com/@julururohith191020109/10-ai-tools-that-replace-a-full-dev-team-almost-adf12e3362e9?source=rss-6c76dbb08be5------2)
 - [Automate Everything: How I Use n8n to Supercharge My Productivity with AI Agents](https://medium.com/@julururohith191020109/automate-everything-how-i-use-n8n-to-supercharge-my-productivity-with-ai-agents-065eafd87453?source=rss-6c76dbb08be5------2)
 - [AI Agents: Revolutionizing the Future of Work and Interaction](https://medium.com/@julururohith191020109/ai-agents-revolutionizing-the-future-of-work-and-interaction-645c73fc34a3?source=rss-6c76dbb08be5------2)
 - [The New Digital Divide: How AI is Creating Two Worlds and What We Can Do About It](https://medium.com/@julururohith191020109/the-new-digital-divide-how-ai-is-creating-two-worlds-and-what-we-can-do-about-it-57e2b15d33da?source=rss-6c76dbb08be5------2)
 - [Microsoft’s Majorana 1: A Quantum Computing Breakthrough That Changes Everything](https://medium.com/@julururohith191020109/microsofts-majorana-1-a-quantum-computing-breakthrough-that-changes-everything-bed17174dc50?source=rss-6c76dbb08be5------2)
-- [Grok-3: xAI’s Next Leap in AI Evolution](https://medium.com/@julururohith191020109/grok-3-xais-next-leap-in-ai-evolution-5aa91e4659f8?source=rss-6c76dbb08be5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
