@@ -9,7 +9,6 @@ Hi, I'm J V L S ROHITH,I'm interested to work as a solution provider for Compute
 <li>🔭 I’m currently Learning on FULL STACK DEVELOPMENT</li>
 <li> 👯 I’m looking to collaborate on Full time projects on Machine Learning <li>💼 Wanna colab on Projects? do reach, <a href="mailto:rohithjuluru2201@gmail.com">email</a></li>
 <li> 💬 Ask me about anything, I am happy to help </li>
-<li> ⚡ Fun fact : The more you GRIND, the more you GET💫</li>
 </ul>
 
 
