@@ -24,9 +24,13 @@ Hi, I'm J V L S ROHITH,I'm interested to work as a solution provider for Compute
 
 
 # Recent Projects:
-Code 365 : www.code365.tech 
 <p>
+Code 365 : www.code365.tech 
+  <br>
+Resume Builder: https://coderesume.netlify.app/
+  <br>
 Pdf-to-quiz : https://pdfto-quiz.vercel.app/
+</p>
 
 
 <p>
