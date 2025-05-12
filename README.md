@@ -83,19 +83,6 @@ Pdf-to-quiz : https://pdfto-quiz.vercel.app/
 <img src="./profile-3d-contrib/profile-night-green.svg">
 </p>
 <hr>
-<br>
-  <a href="https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201">
-    <img width="400" src="https://stats.quine.sh/Rohith2201/languages-over-time?theme=dark" />
-  </a>
-  <a href="https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201">
-    <img width="400" src="https://stats.quine.sh/Rohith2201/topics-over-time?theme=dark" />
-  </a>
-  <a href="https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201">
-    <img width="400" src="https://stats.quine.sh/Rohith2201/github?theme=dark" /> 
-  </a>
-  <a href = "https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201" >
-    <img width = "400" src="https://stats.quine.sh/Rohith2201/dependencies?theme=dark" />
-  </a>
 </p>
 
 
