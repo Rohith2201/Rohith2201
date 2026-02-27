@@ -7,7 +7,7 @@ Hi, I'm J V L S ROHITH,I'm interested to work as a solution provider for Compute
 <ul>
 <li> 🌱 I’m currently pursuing BTech in Computer Engineering at VIT-AP University </li>
 <li>🔭 I’m currently Learning on FULL STACK DEVELOPMENT</li>
-<li> 👯 I’m looking to collaborate on Full time projects on Machine Learning <li>💼 Wanna colab on Projects? do reach, <a href="mailto:rohithjuluru2201@gmail.com">email</a></li>
+<li> 👯 I’m looking to collaborate on Full time projects on Web Development & Machine Learning <li>💼 Wanna colab on Projects? do reach, <a href="mailto:rohithjuluru2201@gmail.com">email</a></li>
 <li> 💬 Ask me about anything, I am happy to help </li>
 </ul>
 
