@@ -5,7 +5,7 @@
 
 I'm **J V L S Rohith**, a Software Development Engineer with **1 year of hands-on experience** building and shipping full-stack products and ML-driven tools. I care about clean architecture, fast iteration, and software that actually solves problems — not just demos well.
 
-- 💼 **Currently:** Building & scaling production features across the stack
+- 💼 **Currently:** Building & scaling production features across the stack at LTM as SDE
 - 🧠 **Focus areas:** Full Stack Development, Machine Learning, Automation
 - 🏗️ **Recently shipped:** [Code365](https://www.code365.tech), [Resume Builder](https://coderesume.netlify.app/), [PDF-to-Quiz](https://pdfto-quiz.vercel.app/)
 - 🌱 **Currently sharpening:** System design, scalable backend architecture
