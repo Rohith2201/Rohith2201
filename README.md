@@ -98,7 +98,7 @@ I'm **J V L S Rohith**, a Software Development Engineer with **1 year of hands-o
 <!-- BLOG-POST-LIST:START -->
 - [Essential Strategies for Preventing Fraud](https://medium.com/@julururohith191020109/essential-strategies-for-preventing-fraud-00b96cb9c5e2?source=rss-6c76dbb08be5------2)
 - [Engineering Code365 to Feel Like a Real Product](https://medium.com/@julururohith191020109/engineering-code365-to-feel-like-a-real-product-7392bc040e2a?source=rss-6c76dbb08be5------2)
-- [10 AI Tools That Replace a Full Dev Team (Almost)](https://medium.com/@julururohith191020109/10-ai-tools-that-replace-a-full-dev-team-almost-adf12e3362e9?source=rss-6c76dbb08be5------2)
+- [10 AI Tools That Replace a Full Dev Team &lpar;Almost&rpar;](https://medium.com/@julururohith191020109/10-ai-tools-that-replace-a-full-dev-team-almost-adf12e3362e9?source=rss-6c76dbb08be5------2)
 - [Automate Everything: How I Use n8n to Supercharge My Productivity with AI Agents](https://medium.com/@julururohith191020109/automate-everything-how-i-use-n8n-to-supercharge-my-productivity-with-ai-agents-065eafd87453?source=rss-6c76dbb08be5------2)
 - [AI Agents: Revolutionizing the Future of Work and Interaction](https://medium.com/@julururohith191020109/ai-agents-revolutionizing-the-future-of-work-and-interaction-645c73fc34a3?source=rss-6c76dbb08be5------2)
 <!-- BLOG-POST-LIST:END -->
